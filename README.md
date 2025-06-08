@@ -1,4 +1,4 @@
-Hi there, I'm Krithick! 👋
+Hi there, I'm Krithick! 
 
 I'm an ambitious builder making waves in the decentralized world. Formerly deep into Solidity & Ethereum, I'm now fully committed to mastering Solana & Rust and building the next generation of Web3 applications.
 
