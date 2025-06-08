@@ -31,5 +31,4 @@ Email: its.krithick@gmail.com
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/thatmadrasdude)
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkrithick&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrithick&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
